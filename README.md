@@ -1,10 +1,4 @@
-# AWS 自動化專案集 (AWS Automation Projects)
-
-這個儲存庫包含兩個基於 Python 和 Boto3 實現的 AWS 自動化解決方案。
-
----
-
-## 1. 自動化 S3 檔案上傳系統
+## 1. 自動化 S3 檔案上傳系統 (s3test.py)
 
 ### 目標
 
@@ -22,7 +16,7 @@
 
 ---
 
-## 2. 自動化 AWS 網站部署 Pipeline
+## 2. 自動化 AWS 網站部署 Pipeline (foliosetupaws.py)
 
 ### 目標
 
